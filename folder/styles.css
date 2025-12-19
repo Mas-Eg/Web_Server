@@ -1,0 +1,21 @@
+body {
+    background-color: grey !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow-y: hidden;
+    background-color: black;
+}
+.block {
+    font-family: ;
+    font-size: 20vh;
+    color: white;
+    
+}
+.block_2{
+    font-family: ;
+    font-size: 20vh;
+    color: black;
+    margin: 12px;
+}
